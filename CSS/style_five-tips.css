@@ -1,0 +1,22 @@
+p{
+    color: blue;
+    font-size: 20px;
+    font-family: cursive;
+}
+article{
+    width: 1000px;
+}
+h1{
+    height: 400px;
+    color: darkslategray;
+    font-size: 40px;
+}
+h4{
+    text-transform: uppercase;
+}
+.uppercase{
+    text-transform: uppercase;
+}
+#blog-desc{
+    color: #3c534a;
+}

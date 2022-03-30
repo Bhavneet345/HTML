@@ -1,3 +1,3 @@
-# MERN-STACK-Web-Development
-This repository will contain all my coursework for the skills that I am learning as a part of MERN-STACK Web Development.
+# HTML
+This repository will contain all my HTML coursework for the skills that I am learning as a part of MERN-STACK Web Development.
 Hope you'll like it....

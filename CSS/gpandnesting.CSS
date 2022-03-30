@@ -1,0 +1,9 @@
+h1,p{
+    color: black;
+}
+
+li h4{
+    text-transform: uppercase;
+    color: blue;
+    font-family: cursive;
+}
